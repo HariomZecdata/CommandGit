@@ -1,0 +1,5 @@
+config command 
+1. git config --list 
+2. git config --global user.name "Hariom Asati"
+3. git config --global user.email "hariom.a@zecdata.com"
+
