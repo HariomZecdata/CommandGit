@@ -3,3 +3,42 @@ config command
 2. git config --global user.name "Hariom Asati"
 3. git config --global user.email "hariom.a@zecdata.com"
 
+remote repo push to the local 
+1. git remote add origin master https://github.com/HariomZecdata/CommandGit.git
+
+remote changes to local 
+1. git pull origin master 
+
+local changes to remote repo 
+1. git push origin master 
+
+Before push or pull some command run like
+1. git add .
+2. git commit -m "Comment Message"
+
+clone github repo 
+1. git clone https://github.com/HariomZecdata/CommandGit.git
+
+Display Status 
+1. git status 
+
+Display log 
+1. git log 
+
+verify remote  repo 
+1. git remote -v 
+
+branch command 
+1. git branch -M main (to rename branch)
+2. git branch (to check branch) 
+3. git checkout -b feature (to create new branch)
+4. git checkout main (to switch branch)
+5. git branch -d feature (to delete branch)
+
+
+
+
+
+
+
+
