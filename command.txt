@@ -35,7 +35,16 @@ branch command
 4. git checkout main (to switch branch)
 5. git branch -d feature (to delete branch)
 
+reset command
+git reset command.txt (reset add change)
+git reset 
+git reset hard~1 (commited changes for one commit)
+git  reset <hash code> (many commit changes)
+git reset --hard <hash code> 
 
+merge branch 
+git diff <branch name>
+git marge <branch name>
 
 
 
